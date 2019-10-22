@@ -1,0 +1,6 @@
+USER        PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root       1144  0.0  0.1  78772  3764 tty1     Ss   09:37   0:00 /bin/login -p --
+aaron      1505  0.0  0.3  28384  6224 tty1     S    09:39   0:01 -bash
+aaron     36752  0.0  0.0   8556   948 tty1     T    19:16   0:01 less
+aaron     37292  0.0  0.4  28432  9364 tty1     S    21:38   0:00 python3 infinite.py
+aaron     37297  0.0  0.1  38372  3636 tty1     R+   21:46   0:00 ps -au
